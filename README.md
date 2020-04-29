@@ -7,4 +7,4 @@ Each data set is available in a dedicated zip file.
 A set of randomly generated data for hierarchical facility location
 
 
-Further details regarding each dataset is available in the corresponding zip files.
+# Details regarding each dataset is available in the corresponding zip file.
