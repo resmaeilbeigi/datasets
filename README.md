@@ -1,5 +1,4 @@
-# datasets
-A collection of datasets.
+This repository contains a collection of datasets.
 Details regarding each data set is available in its dedicated zip file.
 
 
