@@ -1,5 +1,5 @@
 This repository contains a collection of datasets.
-Details regarding each data set is available in its dedicated zip file.
+Details regarding each dataset is available in its dedicated zip file.
 
 
 # HFLP
