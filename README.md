@@ -3,4 +3,4 @@ Details regarding each dataset is available in its dedicated zip file.
 
 
 # HFLP
-A set of randomly generated data for hierarchical facility location
+A set of randomly generated data for a stochastic hierarchical facility location problem
